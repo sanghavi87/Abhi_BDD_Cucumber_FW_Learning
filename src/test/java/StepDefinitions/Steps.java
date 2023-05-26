@@ -69,7 +69,7 @@ public class Steps
 
 
 //######################################### Registration Steps ###########################################
-//                                        -----------------------
+//                                 002*****************************************
 
     @When("^User Click on Register btn$")
     public void user_Click_on_Register_btn()

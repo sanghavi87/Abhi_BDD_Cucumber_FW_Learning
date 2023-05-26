@@ -10,9 +10,9 @@ import org.junit.runner.RunWith;
 
 // 1) feature:- Path of the feature file , where feature file is available:-
 //-------------------
-            features = "C:\\Users\\abhis\\IdeaProjects\\Abhi_BDD_Cucumber_FW_Learning\\src\\test\\resources\\Features",  // when you want to run all the functionality
+//            features = "C:\\Users\\abhis\\IdeaProjects\\Abhi_BDD_Cucumber_FW_Learning\\src\\test\\resources\\Features",  // when you want to run all the functionality
 //            features = "C:\\Users\\abhis\\IdeaProjects\\Abhi_BDD_Cucumber_FW_Learning\\src\\test\\resources\\Features\\A_Login.feature", // when you want to run any particular functionality
-//            features = "C:\\Users\\abhis\\IdeaProjects\\Abhi_BDD_Cucumber_FW_Learning\\src\\test\\resources\\Features\\B_Register.feature",
+            features = "C:\\Users\\abhis\\IdeaProjects\\Abhi_BDD_Cucumber_FW_Learning\\src\\test\\resources\\Features\\B_Register.feature",
 //            features = "C:\\Users\\abhis\\IdeaProjects\\Abhi_BDD_Cucumber_FW_Learning\\src\\test\\resources\\Features\\C_SelectProduct.feature",
 //            features = "C:\\Users\\abhis\\IdeaProjects\\Abhi_BDD_Cucumber_FW_Learning\\src\\test\\resources\\Features\\D_AddToCart.feature",
 //            features = "C:\\Users\\abhis\\IdeaProjects\\Abhi_BDD_Cucumber_FW_Learning\\src\\test\\resources\\Features\\E_ShoppingCart.feature",
